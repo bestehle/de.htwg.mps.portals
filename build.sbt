@@ -26,7 +26,7 @@ libraryDependencies ++= Seq(
 
 instrumentSettings
 
-ScoverageSbtPlugin.ScoverageKeys.coverageExcludedPackages := "de.htwg.mps.portals;de.htwg.mps.portals.actor.*;de.htwg.mps.portals.config.*;de.htwg.mps.portals.util.*"
+// ScoverageSbtPlugin.ScoverageKeys.coverageExcludedPackages := "de.htwg.mps.portals;de.htwg.mps.portals.actor.*;de.htwg.mps.portals.config.*;de.htwg.mps.portals.util.*"
 
 
 // no folders for src/main/java and src/test/java
